@@ -4,7 +4,7 @@
 // Input        : N : 6
 //              : NO: 66
 //              : Elements : 85 66 3 66 93 88
-// Output       : FALSE
+// Output       : TRUE
 // Author       : Shivaji Das
 // Date         : 1-6-2021
 /////////////////////////////////////////////////////
